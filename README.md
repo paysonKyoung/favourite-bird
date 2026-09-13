@@ -64,6 +64,6 @@
     <br>
     <i>“Lammergeiers drop large bones from considerable heights onto rocky surfaces, breaking them into smaller pieces that can be swallowed.”</i>
   <h1>Reference</h1>
-    Read about the lammergeier <a href="https://en.wikipedia.org/wiki/Bearded_vulture"</a> on Wikipedia.
+    Read about the <a href="https://en.wikipedia.org/wiki/Bearded_vulture">lammergeier</a> on Wikipedia.
   </body>
 </html>
