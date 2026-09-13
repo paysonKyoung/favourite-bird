@@ -7,13 +7,9 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <div class="navbar">
-      <a href="https://pages.gitlab.io/plain-html/">Plain HTML Example</a>
-      <a href="https://gitlab.com/pages/plain-html/">Repository</a>
-      <a href="https://gitlab.com/pages/">Other Examples</a>
-    </div>
     <h1>Lammergeier</h1>
     Lammergeiers are remarkable mountain-dwelling birds of prey. They are famous for their unusual diet and behavior: they feed primarily on bones and will drop large bones from great heights onto rocks to break them into pieces they can eat.
+    <br>
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Gypaetus_barbatus%2C_ZOO_Praha_895.jpg/1920px-Gypaetus_barbatus%2C_ZOO_Praha_895.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20100327161337" width="200">
   <br>
   Image credits: <a href="https://commons.wikimedia.org/wiki/File:Gypaetus_barbatus,_ZOO_Praha_895.jpg">Matěj Baťha</a> <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
@@ -61,4 +57,3 @@
 </table>
   </body>
 </html>
-
