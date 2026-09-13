@@ -41,25 +41,19 @@
   <thead>
     <tr>
       <th>Vulture species</th>
-    </tr>
-    <tr>
       <th>Wingspan</th>
-    </tr>
-    <tr>
       <th>Weight</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Lammergeier</td>
-      <td>Griffon Vulture</td>
-    </tr>
-    <tr>
       <td>2.35 to 2.83 m</td>
-      <td>2.3 to 2.8 m</td>
+      <td>9.0 to 16.2 lb</td>
     </tr>
     <tr>
-      <td>9.0 to 16.2 lb</td>
+      <td>Griffon Vulture</td>
+      <td>2.3 to 2.8 m</td>
       <td>13.2 to 23.8 lb</td>
     </tr>
   </tbody>
@@ -67,8 +61,9 @@
     <h1>Breaking bones to eat</h1>
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bartgeier_%28Gypaetus_barbatus%29_in_Region_Solsona%2C_Katalonien.jpg/1920px-Bartgeier_%28Gypaetus_barbatus%29_in_Region_Solsona%2C_Katalonien.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20251126124914" width="500">
     Image credits: <a href="https://commons.wikimedia.org/wiki/File:Gypaetus_barbatus_closeup.jpg">Scarabinol</a> <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+    <br>
     <i>“Lammergeiers drop large bones from considerable heights onto rocky surfaces, breaking them into smaller pieces that can be swallowed.”</i>
   <h1>Reference</h1>
-    Read about the [lammergeier](https://en.wikipedia.org/wiki/Bearded_vulture) on Wikipedia.
+    Read about the lammergeier <a href="https://en.wikipedia.org/wiki/Bearded_vulture"</a> on Wikipedia.
   </body>
 </html>
